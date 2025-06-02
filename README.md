@@ -217,7 +217,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Kashif Bangash - [@kashifbangash79](https://github.com/kashifbangash79)
 Project Link: [https://github.com/kashifbangash79/blog-platform](https://github.com/kashifbangash79/blog-platform)
 
 ## Testing the Application
