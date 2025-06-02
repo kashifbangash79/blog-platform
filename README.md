@@ -4,7 +4,7 @@ A modern blog platform backend built with Nx, NestJS, TypeORM, PostgreSQL, and G
 
 ## Repository Information
 
-- **Repository**: [blog-platform](https://github.com/yourusername/blog-platform)
+- **Repository**: [blog-platform](https://github.com/kashifbangash79/blog-platform)
 - **Branch**: main
 - **Last Updated**: June 2, 2024
 
@@ -215,10 +215,7 @@ nx generate @nx/nest:service <name> --project=blog-platform
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/blog-platform](https://github.com/yourusername/blog-platform)
+Project Link: [https://github.com/kashifbangash79/blog-platform](https://github.com/kashifbangash79/blog-platform)
 
 ## Testing the Application
 
@@ -347,7 +344,7 @@ subscription {
    ```
 3. Add the remote repository:
    ```bash
-   git remote add origin https://github.com/yourusername/blog-platform.git
+   git remote add origin https://github.com/kashifbangash79/blog-platform.git
    git branch -M main
    git push -u origin main
    ```
